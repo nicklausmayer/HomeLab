@@ -137,6 +137,18 @@
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-65" value="vEthernet&lt;br&gt;(Firewall-LAN)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160.00231150771128" y="329.6029269006908" as="geometry" />
         </mxCell>
+        <mxCell id="8OkVdOE0yO2fCD5ghOcW-68" value="&lt;div&gt;WWU&lt;/div&gt;&lt;div&gt;Server Cluster&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=light-dark(#000000, #bfd3ff);shape=mxgraph.mscae.enterprise.cluster_server" vertex="1" parent="1">
+          <mxGeometry x="690" y="294" width="56.8" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8OkVdOE0yO2fCD5ghOcW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="8OkVdOE0yO2fCD5ghOcW-21" target="8OkVdOE0yO2fCD5ghOcW-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OkVdOE0yO2fCD5ghOcW-70" value="Internet" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=light-dark(#000000, #bfd3ff);shape=mxgraph.azure.cloud" vertex="1" parent="1">
+          <mxGeometry x="850" y="300.7" width="88.44" height="56.6" as="geometry" />
+        </mxCell>
+        <mxCell id="8OkVdOE0yO2fCD5ghOcW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="8OkVdOE0yO2fCD5ghOcW-70" target="8OkVdOE0yO2fCD5ghOcW-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
