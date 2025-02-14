@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-45" value="Hyper-V" style="rounded=0;whiteSpace=wrap;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="220" width="540" height="220" as="geometry" />
+          <mxGeometry x="-40" y="220" width="460" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-11" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashPattern=1 1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8OkVdOE0yO2fCD5ghOcW-24" target="8OkVdOE0yO2fCD5ghOcW-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-55" value="&lt;b&gt;Windows&lt;br&gt;&lt;/b&gt;SSD0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8OkVdOE0yO2fCD5ghOcW-20">
           <mxGeometry x="0.4441" y="-3" relative="1" as="geometry">
-            <mxPoint x="8" as="offset" />
+            <mxPoint x="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-60" value="em0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="8OkVdOE0yO2fCD5ghOcW-20">
@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-46" value="&lt;div&gt;&lt;b&gt;Windows&lt;/b&gt;&lt;/div&gt;&lt;div&gt;SSD0&lt;br&gt;SSD1&lt;br&gt;HDD1&lt;br&gt;&lt;br&gt;&lt;b&gt;Kali&lt;br&gt;&lt;/b&gt;HDD0&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8OkVdOE0yO2fCD5ghOcW-42">
           <mxGeometry x="0.3664" relative="1" as="geometry">
-            <mxPoint y="17" as="offset" />
+            <mxPoint x="20" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8OkVdOE0yO2fCD5ghOcW-44" value="Windows Sandbox" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=light-dark(#000000, #bfd3ff);shape=mxgraph.azure.virtual_machine_feature" vertex="1" parent="1">
